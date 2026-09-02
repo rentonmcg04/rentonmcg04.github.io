@@ -1,5 +1,5 @@
 # Selected Dataset:
-## [College ROI Dataset](https://github.com/noahaust2/ai-displacement-tracker) 
+## [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) 
 ### This dataset contains information about the value of various degrees as well as universities. For many majors, it looks at the total ROI and how exposed that major is to AI. It also looks at the value of a variety of colleges and the financial burden of going to a school from out-of-state. I believe this dataset could be extremely helpful for students who are trying to pick a school/major. Many careers today are being heavily impacted by AI, so knowing exactly how much something you are interested in studying is being affected would be extremely helpful. 
 
 # Selected Data Science Book
